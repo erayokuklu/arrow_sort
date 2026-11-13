@@ -1,0 +1,29 @@
+{
+	"level_id": 3,
+	"level_name": "Yedi Renk Dengesi",
+	"grid_width": 5,
+	"grid_height": 5,
+	"blocks": [
+		{ "x": 0, "y": 0, "color": "red", "direction": "up" },
+		{ "x": 1, "y": 0, "color": "blue", "direction": "up" },
+		{ "x": 2, "y": 0, "color": "green", "direction": "up" },
+		{ "x": 3, "y": 0, "color": "yellow", "direction": "up" },
+		{ "x": 4, "y": 0, "color": "red", "direction": "right" },
+		{ "x": 0, "y": 1, "color": "purple", "direction": "left" },
+		{ "x": 1, "y": 1, "color": "cyan", "direction": "up" },
+		{ "x": 2, "y": 1, "color": "blue", "direction": "up" },
+		{ "x": 3, "y": 1, "color": "cyan", "direction": "up" },
+		{ "x": 4, "y": 1, "color": "orange", "direction": "right" },
+		{ "x": 0, "y": 2, "color": "yellow", "direction": "left" },
+		{ "x": 1, "y": 2, "color": "green", "direction": "left" },
+		{ "x": 2, "y": 2, "color": "red", "direction": "up" },
+		{ "x": 3, "y": 2, "color": "yellow", "direction": "right" },
+		{ "x": 4, "y": 2, "color": "purple", "direction": "right" },
+		{ "x": 1, "y": 3, "color": "orange", "direction": "down" },
+		{ "x": 2, "y": 3, "color": "purple", "direction": "down" },
+		{ "x": 3, "y": 3, "color": "cyan", "direction": "down" },
+		{ "x": 0, "y": 4, "color": "blue", "direction": "left" },
+		{ "x": 2, "y": 4, "color": "orange", "direction": "down" },
+		{ "x": 4, "y": 4, "color": "green", "direction": "down" }
+	]
+}

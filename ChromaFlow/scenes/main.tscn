@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://cwuab4cmjton2"]
+
+[ext_resource type="Script" uid="uid://vck80y32fj8e" path="res://scripts/main.gd" id="1_main"]
+[ext_resource type="PackedScene" path="res://scenes/game.tscn" id="2_game"]
+[ext_resource type="PackedScene" uid="uid://bmenu0000001" path="res://scenes/main_menu.tscn" id="3_menu"]
+
+[node name="Main" type="Control" unique_id=1668548306]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_main")
+
+[node name="Game" parent="." unique_id=1954741257 instance=ExtResource("2_game")]
+visible = false
+layout_mode = 1
+
+[node name="MainMenu" parent="." unique_id=677736773 instance=ExtResource("3_menu")]
+layout_mode = 1

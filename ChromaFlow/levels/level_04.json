@@ -1,0 +1,32 @@
+{
+	"level_id": 4,
+	"level_name": "Dört Kadran",
+	"grid_width": 6,
+	"grid_height": 6,
+	"blocks": [
+		{ "x": 1, "y": 0, "color": "red", "direction": "up" },
+		{ "x": 2, "y": 0, "color": "blue", "direction": "up" },
+		{ "x": 3, "y": 0, "color": "green", "direction": "up" },
+		{ "x": 4, "y": 0, "color": "yellow", "direction": "up" },
+		{ "x": 0, "y": 1, "color": "purple", "direction": "left" },
+		{ "x": 1, "y": 1, "color": "cyan", "direction": "up" },
+		{ "x": 2, "y": 1, "color": "red", "direction": "left" },
+		{ "x": 3, "y": 1, "color": "blue", "direction": "right" },
+		{ "x": 4, "y": 1, "color": "purple", "direction": "up" },
+		{ "x": 5, "y": 1, "color": "cyan", "direction": "right" },
+		{ "x": 1, "y": 2, "color": "yellow", "direction": "left" },
+		{ "x": 2, "y": 2, "color": "green", "direction": "up" },
+		{ "x": 3, "y": 2, "color": "red", "direction": "up" },
+		{ "x": 4, "y": 2, "color": "blue", "direction": "right" },
+		{ "x": 1, "y": 3, "color": "cyan", "direction": "left" },
+		{ "x": 2, "y": 3, "color": "purple", "direction": "down" },
+		{ "x": 3, "y": 3, "color": "yellow", "direction": "down" },
+		{ "x": 4, "y": 3, "color": "green", "direction": "right" },
+		{ "x": 0, "y": 4, "color": "orange", "direction": "left" },
+		{ "x": 2, "y": 4, "color": "orange", "direction": "down" },
+		{ "x": 3, "y": 4, "color": "orange", "direction": "down" },
+		{ "x": 5, "y": 4, "color": "red", "direction": "right" },
+		{ "x": 1, "y": 5, "color": "red", "direction": "down" },
+		{ "x": 4, "y": 5, "color": "red", "direction": "down" }
+	]
+}
